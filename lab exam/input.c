@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main (){
+    // sum of two integer
+    int x=5; int y=5; int z=x+y;
+    printf("x + y = %d", &z);
+    return 0;
+}
